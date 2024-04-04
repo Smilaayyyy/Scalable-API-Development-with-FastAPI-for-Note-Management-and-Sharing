@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn
+motor[asyncio]
+pyjwt
+pydantic
+passlib
+pytest
+pytest-asyncio
+python-decouple
